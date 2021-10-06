@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Aplikasi Coffee Shop</string>
+    <string name="ucapan_selamat_datang">Di Aplikasi Coffee Shop</string>
+    <string-array name="menu">
+        <item>Black Coffee</item>
+        <item>Arabian Coffee</item>
+        <item>Choco Coffee</item>
+        <item>Milo Coffee</item>
+        <item>Vanila Late</item>
+        <item>Matcha Coffee</item>
+        <item>Choco Milk</item>
+        <item>Oreo Milk</item>
+        <item>Redvelvet Coffee</item>
+        <item>Strawberu Milk</item>
+    </string-array>
+</resources>
